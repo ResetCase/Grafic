@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="LogosCaseReset.svg">
+  <defs
+     id="defs4">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80275488px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -560.62702,158.42899 c -10.58089,-31.69031 3.32371,-80.295142 85.84769,-69.67621"
+       id="path3600-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -919.05699,167.69008 c 14.41617,-54.62845 73.6271,-55.18393 92.91504,-8.21428 l 1.78572,6.42857"
+       id="path3717-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -919.05699,167.69008 c 14.41617,-54.62845 73.6271,-55.18393 92.91504,-8.21428 l 1.78572,6.42857"
+       id="path3717-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -919.05699,167.69008 c 14.41617,-54.62845 73.6271,-55.18393 92.91504,-8.21428 l 1.78572,6.42857"
+       id="path3717-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -919.05699,167.69008 c 14.41617,-54.62845 73.6271,-55.18393 92.91504,-8.21428 l 1.78572,6.42857"
+       id="path3717-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Roughen"
+       id="filter3828">
+      <feTurbulence
+         type="fractalNoise"
+         numOctaves="5"
+         seed="1"
+         baseFrequency="0.013 0.013"
+         result="turbulence"
+         id="feTurbulence3830" />
+      <feDisplacementMap
+         in="SourceGraphic"
+         in2="turbulence"
+         scale="6.6"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         id="feDisplacementMap3832" />
+    </filter>
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+       id="path3888-9"
+       sodipodi:cx="-1180.6617"
+       sodipodi:cy="150.82594"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="47.487915"
+       sodipodi:argument="-17.399384"
+       sodipodi:t0="0.90477002"
+       d="m -1140.226,136.30034 c 9.6902,22.70148 -2.1254,49.23475 -24.5723,58.68571 -3.2569,1.37131 -6.6685,2.37227 -10.1491,2.98275"
+       transform="matrix(2.8348672,0,0,2.1171744,2098.976,-169.73853)" />
+    <ellipse
+       style="fill:#ff0000;stroke:#000000;stroke-width:1.04999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="path4773-5"
+       cx="-1241.7858"
+       cy="137.3622"
+       rx="55.714287"
+       ry="46.785713" />
+    <ellipse
+       style="fill:#ff0000;stroke:#000000;stroke-width:1.04999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="path4773-5-6"
+       cx="-1241.7858"
+       cy="137.3622"
+       rx="55.714287"
+       ry="46.785713" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-1000.5976"
+     inkscape:cy="1182.3923"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="1315"
+     inkscape:window-height="744"
+     inkscape:window-x="51"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="125.71429"
+       y="266.64792"
+       id="text3336"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3338"
+         x="125.71429"
+         y="266.64792">Case-Reset</tspan></text>
+    <circle
+       style="fill:#217821"
+       id="path3340"
+       cx="236.88077"
+       cy="179.08533"
+       r="52.022858" />
+    <ellipse
+       style="fill:#ffff00"
+       id="path3342"
+       cx="253.04321"
+       cy="470.67319"
+       rx="42.931484"
+       ry="42.585262" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3344"
+       sodipodi:cx="-27.274118"
+       sodipodi:cy="377.58029"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="30.033995"
+       sodipodi:argument="-16.935736"
+       sodipodi:t0="0"
+       d="m -27.274118,377.58029 c -0.506475,1.41813 -2.161486,0.0169 -2.357023,-0.84179 -0.529894,-2.32711 2.006842,-3.94317 4.04061,-3.87225 3.637934,0.12685 5.838931,3.88854 5.387481,7.23942 -0.662522,4.91756 -5.789518,7.7736 -10.438243,6.90271 -6.196019,-1.16076 -9.723805,-7.69652 -8.417939,-13.63706 1.643299,-7.47556 9.606198,-11.68183 16.835876,-9.93316 8.756108,2.11787 13.6443646,11.51733 11.448396,20.03469 -2.587872,10.0374 -13.429387,15.6097 -23.233508,12.96362 -11.319246,-3.055 -17.576927,-15.34204 -14.478854,-26.43232 3.520226,-12.60149 17.255121,-19.54546 29.63114,-15.99408 13.8840233,3.98411 21.5149544,19.16851 17.509313,32.82995 -4.4470213,15.16679 -21.082147,23.48517 -36.028774,19.02454"
+       transform="matrix(-0.9983732,0.05701721,-0.05701721,-0.9983732,-27.849752,760.94447)" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3344-3"
+       sodipodi:cx="-27.274118"
+       sodipodi:cy="377.58029"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="30.033995"
+       sodipodi:argument="-16.935736"
+       sodipodi:t0="0"
+       d="m -27.274118,377.58029 c -0.506475,1.41813 -2.161486,0.0169 -2.357023,-0.84179 -0.529894,-2.32711 2.006842,-3.94317 4.04061,-3.87225 3.637934,0.12685 5.838931,3.88854 5.387481,7.23942 -0.662522,4.91756 -5.789518,7.7736 -10.438243,6.90271 -6.196019,-1.16076 -9.723805,-7.69652 -8.417939,-13.63706 1.643299,-7.47556 9.606198,-11.68183 16.835876,-9.93316 8.756108,2.11787 13.6443646,11.51733 11.448396,20.03469 -2.587872,10.0374 -13.429387,15.6097 -23.233508,12.96362 -11.319246,-3.055 -17.576927,-15.34204 -14.478854,-26.43232 3.520226,-12.60149 17.255121,-19.54546 29.63114,-15.99408 13.8840233,3.98411 21.5149544,19.16851 17.509313,32.82995 -4.4470213,15.16679 -21.082147,23.48517 -36.028774,19.02454"
+       transform="matrix(0.9983732,0.05701721,0.05701721,-0.9983732,-75.585478,761.62762)" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -74.751286,280.60566 7.071065,17.17259 -82.832509,144.45182 199.000052,-33.33504 -118.187848,-112.12693 27.274119,121.21831 -50.507627,-2.02031 -20.203056,-20.20305 32.324886,-62.62946 11.111678,-18.18274 5.050763,29.29442"
+       id="path3361"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 469.15966,251.0726 7.07106,17.17259 -82.83251,144.45182 199.00005,-33.33504 -118.18784,-112.12693 27.27411,121.21831 -50.50762,-2.02031 -20.20306,-20.20305 32.32489,-62.62946 11.11168,-18.18274 5.05076,29.29442"
+       id="path3361-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#ff2a2a"
+       d="m 213.09029,494.88893 c 0,-0.17784 7.48921,-13.39306 16.64269,-29.36716 10.36402,-18.08667 16.77132,-28.84135 16.98366,-28.50718 0.78018,1.22777 0.20572,2.94935 -2.45482,7.35677 -2.55965,4.24029 -16.16699,30.22537 -16.16699,30.87307 0,0.15136 2.04704,2.31528 4.54898,4.8087 l 4.54899,4.53351 10.92019,0.47355 c 6.00611,0.26046 11.04202,0.35175 11.19091,0.20286 0.14889,-0.14889 -2.33257,-11.83348 -5.51434,-25.96575 -3.18179,-14.13228 -5.74683,-25.72551 -5.7001,-25.76274 0.15847,-0.12627 49.77987,47.14392 49.63789,47.2859 -0.0776,0.0776 -18.60651,3.2361 -41.17544,7.01899 -22.56893,3.78289 -41.58054,6.98932 -42.24802,7.1254 -0.66747,0.13608 -1.2136,0.10192 -1.2136,-0.0759 z"
+       id="path3378"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3344-3-7"
+       sodipodi:cx="-27.274118"
+       sodipodi:cy="377.58029"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="30.033995"
+       sodipodi:argument="-16.935736"
+       sodipodi:t0="0"
+       d="m -27.274118,377.58029 c -0.506475,1.41813 -2.161486,0.0169 -2.357023,-0.84179 -0.529894,-2.32711 2.006842,-3.94317 4.04061,-3.87225 3.637934,0.12685 5.838931,3.88854 5.387481,7.23942 -0.662522,4.91756 -5.789518,7.7736 -10.438243,6.90271 -6.196019,-1.16076 -9.723805,-7.69652 -8.417939,-13.63706 1.643299,-7.47556 9.606198,-11.68183 16.835876,-9.93316 8.756108,2.11787 13.6443646,11.51733 11.448396,20.03469 -2.587872,10.0374 -13.429387,15.6097 -23.233508,12.96362 -11.319246,-3.055 -17.576927,-15.34204 -14.478854,-26.43232 3.520226,-12.60149 17.255121,-19.54546 29.63114,-15.99408 13.8840233,3.98411 21.5149544,19.16851 17.509313,32.82995 -4.4470213,15.16679 -21.082147,23.48517 -36.028774,19.02454"
+       transform="matrix(0.43083122,0.02460482,0.02460482,-0.43083122,246.09313,634.65005)" />
+    <g
+       id="g3416"
+       transform="translate(-310,-357.14286)">
+      <ellipse
+         ry="42.585262"
+         rx="42.931484"
+         cy="536.64795"
+         cx="546.26636"
+         id="path3342-5"
+         style="fill:#ffff00" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3378-3"
+         d="m 506.31346,560.86366 c 0,-0.17784 7.48921,-13.39306 16.64269,-29.36716 10.36402,-18.08667 16.77132,-28.84135 16.98366,-28.50718 0.78018,1.22777 0.20572,2.94935 -2.45482,7.35677 -2.55965,4.24029 -16.16699,30.22537 -16.16699,30.87307 0,0.15136 2.04704,2.31528 4.54898,4.8087 l 4.54899,4.53351 10.92019,0.47355 c 6.00611,0.26046 11.04202,0.35175 11.19091,0.20286 0.14889,-0.14889 -2.33257,-11.83348 -5.51434,-25.96575 -3.18179,-14.13228 -5.74683,-25.72551 -5.7001,-25.76274 0.15847,-0.12627 49.77987,47.14392 49.63789,47.2859 -0.0776,0.0776 -18.60651,3.2361 -41.17544,7.01899 -22.56893,3.78289 -41.58054,6.98932 -42.24802,7.1254 -0.66747,0.13608 -1.2136,0.10192 -1.2136,-0.0759 z"
+         style="fill:#ff2a2a" />
+      <path
+         transform="matrix(0.43083122,0.02460482,0.02460482,-0.43083122,539.3163,700.62479)"
+         d="m -27.274118,377.58029 c -0.506475,1.41813 -2.161486,0.0169 -2.357023,-0.84179 -0.529894,-2.32711 2.006842,-3.94317 4.04061,-3.87225 3.637934,0.12685 5.838931,3.88854 5.387481,7.23942 -0.662522,4.91756 -5.789518,7.7736 -10.438243,6.90271 -6.196019,-1.16076 -9.723805,-7.69652 -8.417939,-13.63706 1.643299,-7.47556 9.606198,-11.68183 16.835876,-9.93316 8.756108,2.11787 13.6443646,11.51733 11.448396,20.03469 -2.587872,10.0374 -13.429387,15.6097 -23.233508,12.96362 -11.319246,-3.055 -17.576927,-15.34204 -14.478854,-26.43232 3.520226,-12.60149 17.255121,-19.54546 29.63114,-15.99408 13.8840233,3.98411 21.5149544,19.16851 17.509313,32.82995 -4.4470213,15.16679 -21.082147,23.48517 -36.028774,19.02454"
+         sodipodi:t0="0"
+         sodipodi:argument="-16.935736"
+         sodipodi:radius="30.033995"
+         sodipodi:revolution="3"
+         sodipodi:expansion="1"
+         sodipodi:cy="377.58029"
+         sodipodi:cx="-27.274118"
+         id="path3344-3-7-5"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="spiral" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.59350967px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#002b11;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="273.7963"
+       y="182.64653"
+       id="text3336-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.86036433,1.1622983)"><tspan
+         sodipodi:role="line"
+         id="tspan3338-2"
+         x="273.7963"
+         y="182.64653"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.77702522px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle">Case-Reset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.62399006px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dee3db;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="336.52173"
+       y="-66.592522"
+       id="text3336-6-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.58481556,0.63104481,-0.85250199,0.79004917,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3338-2-8"
+         x="336.52173"
+         y="-66.592522"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.773386px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle;fill:#dee3db">Case-Reset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.62399006px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bec8b7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="52.239876"
+       y="230.52086"
+       id="text3336-6-2-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.40266793,0.76031922,1.0271436,0.54397914,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3338-2-8-6"
+         x="52.239876"
+         y="230.52086"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.773386px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle;fill:#bec8b7;">Case-Reset</tspan></text>
+    <circle
+       style="fill:#217821"
+       id="path3340-0"
+       cx="488.40875"
+       cy="115.9508"
+       r="52.022858" />
+    <g
+       id="g3416-7"
+       transform="translate(-58.472012,-420.27739)">
+      <ellipse
+         ry="42.585262"
+         rx="42.931484"
+         cy="536.64795"
+         cx="546.26636"
+         id="path3342-5-0"
+         style="fill:#ffff00" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3378-3-1"
+         d="m 506.31346,560.86366 c 0,-0.17784 7.48921,-13.39306 16.64269,-29.36716 10.36402,-18.08667 16.77132,-28.84135 16.98366,-28.50718 0.78018,1.22777 0.20572,2.94935 -2.45482,7.35677 -2.55965,4.24029 -16.16699,30.22537 -16.16699,30.87307 0,0.15136 2.04704,2.31528 4.54898,4.8087 l 4.54899,4.53351 10.92019,0.47355 c 6.00611,0.26046 11.04202,0.35175 11.19091,0.20286 0.14889,-0.14889 -2.33257,-11.83348 -5.51434,-25.96575 -3.18179,-14.13228 -5.74683,-25.72551 -5.7001,-25.76274 0.15847,-0.12627 49.77987,47.14392 49.63789,47.2859 -0.0776,0.0776 -18.60651,3.2361 -41.17544,7.01899 -22.56893,3.78289 -41.58054,6.98932 -42.24802,7.1254 -0.66747,0.13608 -1.2136,0.10192 -1.2136,-0.0759 z"
+         style="fill:#ff2a2a" />
+      <path
+         transform="matrix(0.43083122,0.02460482,0.02460482,-0.43083122,539.3163,700.62479)"
+         d="m -27.274118,377.58029 c -0.506475,1.41813 -2.161486,0.0169 -2.357023,-0.84179 -0.529894,-2.32711 2.006842,-3.94317 4.04061,-3.87225 3.637934,0.12685 5.838931,3.88854 5.387481,7.23942 -0.662522,4.91756 -5.789518,7.7736 -10.438243,6.90271 -6.196019,-1.16076 -9.723805,-7.69652 -8.417939,-13.63706 1.643299,-7.47556 9.606198,-11.68183 16.835876,-9.93316 8.756108,2.11787 13.6443646,11.51733 11.448396,20.03469 -2.587872,10.0374 -13.429387,15.6097 -23.233508,12.96362 -11.319246,-3.055 -17.576927,-15.34204 -14.478854,-26.43232 3.520226,-12.60149 17.255121,-19.54546 29.63114,-15.99408 13.8840233,3.98411 21.5149544,19.16851 17.509313,32.82995 -4.4470213,15.16679 -21.082147,23.48517 -36.028774,19.02454"
+         sodipodi:t0="0"
+         sodipodi:argument="-16.935736"
+         sodipodi:radius="30.033995"
+         sodipodi:revolution="3"
+         sodipodi:expansion="1"
+         sodipodi:cy="377.58029"
+         sodipodi:cx="-27.274118"
+         id="path3344-3-7-5-0"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="spiral" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.59350967px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#002b11;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="566.14685"
+       y="128.32784"
+       id="text3336-6-1"
+       sodipodi:linespacing="125%"
+       transform="scale(0.86036433,1.1622983)"><tspan
+         sodipodi:role="line"
+         id="tspan3338-2-3"
+         x="566.14685"
+         y="128.32784"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.77702522px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle">Case-Reset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.62399006px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dee3db;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="481.41888"
+       y="-262.24002"
+       id="text3336-6-2-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.58481556,0.63104481,-0.85250199,0.79004917,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3338-2-8-7"
+         x="481.41888"
+         y="-262.24002"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.773386px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle;fill:#dee3db">Case-Reset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.62399006px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bec8b7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-149.43434"
+       y="396.34018"
+       id="text3336-6-2-9-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.40266794,0.76031923,1.0271436,0.54397915,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3338-2-8-6-6"
+         x="-149.43434"
+         y="396.34018"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.773386px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle;fill:#bec8b7">Case-Reset</tspan></text>
+    <g
+       id="g3573"
+       transform="translate(-262.63966,-150.51273)">
+      <circle
+         r="52.022858"
+         cy="202.82391"
+         cx="610.63721"
+         id="path3340-0-4"
+         style="fill:#217821" />
+      <g
+         transform="translate(63.756446,-333.40427)"
+         id="g3416-7-5">
+        <ellipse
+           style="fill:#ffff00"
+           id="path3342-5-0-2"
+           cx="546.26636"
+           cy="536.64795"
+           rx="42.931484"
+           ry="42.585262" />
+        <path
+           style="fill:#ff2a2a"
+           d="m 506.31346,560.86366 c 0,-0.17784 7.48921,-13.39306 16.64269,-29.36716 10.36402,-18.08667 16.77132,-28.84135 16.98366,-28.50718 0.78018,1.22777 0.20572,2.94935 -2.45482,7.35677 -2.55965,4.24029 -16.16699,30.22537 -16.16699,30.87307 0,0.15136 2.04704,2.31528 4.54898,4.8087 l 4.54899,4.53351 10.92019,0.47355 c 6.00611,0.26046 11.04202,0.35175 11.19091,0.20286 0.14889,-0.14889 -2.33257,-11.83348 -5.51434,-25.96575 -3.18179,-14.13228 -5.74683,-25.72551 -5.7001,-25.76274 0.15847,-0.12627 49.77987,47.14392 49.63789,47.2859 -0.0776,0.0776 -18.60651,3.2361 -41.17544,7.01899 -22.56893,3.78289 -41.58054,6.98932 -42.24802,7.1254 -0.66747,0.13608 -1.2136,0.10192 -1.2136,-0.0759 z"
+           id="path3378-3-1-0"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:type="spiral"
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path3344-3-7-5-0-2"
+           sodipodi:cx="-27.274118"
+           sodipodi:cy="377.58029"
+           sodipodi:expansion="1"
+           sodipodi:revolution="3"
+           sodipodi:radius="30.033995"
+           sodipodi:argument="-16.935736"
+           sodipodi:t0="0"
+           d="m -27.274118,377.58029 c -0.506475,1.41813 -2.161486,0.0169 -2.357023,-0.84179 -0.529894,-2.32711 2.006842,-3.94317 4.04061,-3.87225 3.637934,0.12685 5.838931,3.88854 5.387481,7.23942 -0.662522,4.91756 -5.789518,7.7736 -10.438243,6.90271 -6.196019,-1.16076 -9.723805,-7.69652 -8.417939,-13.63706 1.643299,-7.47556 9.606198,-11.68183 16.835876,-9.93316 8.756108,2.11787 13.6443646,11.51733 11.448396,20.03469 -2.587872,10.0374 -13.429387,15.6097 -23.233508,12.96362 -11.319246,-3.055 -17.576927,-15.34204 -14.478854,-26.43232 3.520226,-12.60149 17.255121,-19.54546 29.63114,-15.99408 13.8840233,3.98411 21.5149544,19.16851 17.509313,32.82995 -4.4470213,15.16679 -21.082147,23.48517 -36.028774,19.02454"
+           transform="matrix(0.43083122,0.02460482,0.02460482,-0.43083122,539.3163,700.62479)" />
+      </g>
+      <text
+         transform="scale(0.86036433,1.1622983)"
+         sodipodi:linespacing="125%"
+         id="text3336-6-1-9"
+         y="203.07036"
+         x="708.21277"
+         style="font-style:normal;font-weight:normal;font-size:10.59350967px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#002b11;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.77702522px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle"
+           y="203.07036"
+           x="708.21277"
+           id="tspan3338-2-3-0"
+           sodipodi:role="line">Case-Reset</tspan></text>
+      <text
+         transform="matrix(0.58481556,0.63104481,-0.85250199,0.79004917,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3336-6-2-7-9"
+         y="-288.56689"
+         x="652.04486"
+         style="font-style:normal;font-weight:normal;font-size:8.62399006px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dee3db;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.773386px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle;fill:#dee3db"
+           y="-288.56689"
+           x="652.04486"
+           id="tspan3338-2-8-7-9"
+           sodipodi:role="line">Case-Reset</tspan></text>
+      <text
+         transform="matrix(-0.40266794,0.76031923,1.0271436,0.54397915,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3336-6-2-9-2-4"
+         y="524.25385"
+         x="-126.69291"
+         style="font-style:normal;font-weight:normal;font-size:8.62399006px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bec8b7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.773386px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle;fill:#bec8b7"
+           y="524.25385"
+           x="-126.69291"
+           id="tspan3338-2-8-6-6-5"
+           sodipodi:role="line">Case-Reset</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="362.11389"
+       y="18.683895"
+       id="text3586"
+       sodipodi:linespacing="133%"
+       transform="matrix(1,-0.02232574,0,1,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3588"
+         x="297.4899"
+         y="18.683895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L';text-anchor:middle;text-align:center;line-height:134%">https://github.com/ResetCase/</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80275488px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -560.62702,158.42899 c -10.58089,-31.69031 3.32371,-80.295142 85.84769,-69.67621"
+       id="path3600"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:133.00000429%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3586-3"
+       sodipodi:linespacing="133%"
+       x="-451.53818"
+       y="-4.0406103"><textPath
+         xlink:href="#path3600"
+         startOffset="50%"
+         id="textPath3615"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:134.00000334%;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L';text-align:center;text-anchor:middle"
+   id="tspan3588-3">https://github.com/ResetCase/</tspan></textPath></text>
+    <text
+       y="-120.994"
+       x="922.59033"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:133.00000429%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3586-1-6"
+       sodipodi:linespacing="133%"
+       transform="translate(-621.14629,35.556808)"><textPath
+         xlink:href="#path3717-9"
+         startOffset="50%"
+         id="textPath3719-0"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:134.00000334%;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L';text-align:center;text-anchor:middle"
+   id="tspan3588-9-6">https://github.com/ResetCase/</tspan></textPath></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -617.61298,82.25289 c 14.41618,-54.62845 73.62711,-55.18393 92.91505,-8.21428 l 1.78572,6.42857"
+       id="path3734"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+       id="path3888"
+       sodipodi:cx="-1180.6617"
+       sodipodi:cy="150.82594"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="47.487915"
+       sodipodi:argument="-17.399384"
+       sodipodi:t0="0.90477002"
+       d="m -1140.226,136.30034 c 9.6902,22.70148 -2.1254,49.23475 -24.5723,58.68571 -3.2569,1.37131 -6.6685,2.37227 -10.1491,2.98275"
+       transform="matrix(2.8348672,0,0,2.1171744,2098.976,-169.73853)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4769"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path4773"
+         startOffset="50%"
+         id="textPath4775"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-anchor:middle;text-align:center"
+   id="tspan4771">https://github.com/ResetCase/</tspan></textPath></text>
+    <ellipse
+       style="fill:#ff0000;stroke:#000000;stroke-width:1.04999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="path4773"
+       cx="-1241.7858"
+       cy="137.3622"
+       rx="55.714287"
+       ry="46.785713" />
+    <g
+       id="g4815">
+      <g
+         transform="matrix(1.2815534,0,0,1.2815534,-1758.0235,-117.15525)"
+         id="g3573-3">
+        <circle
+           style="fill:#217821"
+           id="path3340-0-4-7"
+           cx="610.63721"
+           cy="202.82391"
+           r="52.022858" />
+        <g
+           id="g3416-7-5-9"
+           transform="translate(63.756446,-333.40427)">
+          <ellipse
+             ry="42.585262"
+             rx="42.931484"
+             cy="536.64795"
+             cx="546.26636"
+             id="path3342-5-0-2-8"
+             style="fill:#ffff00" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3378-3-1-0-6"
+             d="m 506.31346,560.86366 c 0,-0.17784 7.48921,-13.39306 16.64269,-29.36716 10.36402,-18.08667 16.77132,-28.84135 16.98366,-28.50718 0.78018,1.22777 0.20572,2.94935 -2.45482,7.35677 -2.55965,4.24029 -16.16699,30.22537 -16.16699,30.87307 0,0.15136 2.04704,2.31528 4.54898,4.8087 l 4.54899,4.53351 10.92019,0.47355 c 6.00611,0.26046 11.04202,0.35175 11.19091,0.20286 0.14889,-0.14889 -2.33257,-11.83348 -5.51434,-25.96575 -3.18179,-14.13228 -5.74683,-25.72551 -5.7001,-25.76274 0.15847,-0.12627 49.77987,47.14392 49.63789,47.2859 -0.0776,0.0776 -18.60651,3.2361 -41.17544,7.01899 -22.56893,3.78289 -41.58054,6.98932 -42.24802,7.1254 -0.66747,0.13608 -1.2136,0.10192 -1.2136,-0.0759 z"
+             style="fill:#ff2a2a" />
+          <path
+             transform="matrix(0.43083122,0.02460482,0.02460482,-0.43083122,539.3163,700.62479)"
+             d="m -27.274118,377.58029 c -0.506475,1.41813 -2.161486,0.0169 -2.357023,-0.84179 -0.529894,-2.32711 2.006842,-3.94317 4.04061,-3.87225 3.637934,0.12685 5.838931,3.88854 5.387481,7.23942 -0.662522,4.91756 -5.789518,7.7736 -10.438243,6.90271 -6.196019,-1.16076 -9.723805,-7.69652 -8.417939,-13.63706 1.643299,-7.47556 9.606198,-11.68183 16.835876,-9.93316 8.756108,2.11787 13.6443646,11.51733 11.448396,20.03469 -2.587872,10.0374 -13.429387,15.6097 -23.233508,12.96362 -11.319246,-3.055 -17.576927,-15.34204 -14.478854,-26.43232 3.520226,-12.60149 17.255121,-19.54546 29.63114,-15.99408 13.8840233,3.98411 21.5149544,19.16851 17.509313,32.82995 -4.4470213,15.16679 -21.082147,23.48517 -36.028774,19.02454"
+             sodipodi:t0="0"
+             sodipodi:argument="-16.935736"
+             sodipodi:radius="30.033995"
+             sodipodi:revolution="3"
+             sodipodi:expansion="1"
+             sodipodi:cy="377.58029"
+             sodipodi:cx="-27.274118"
+             id="path3344-3-7-5-0-2-7"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             sodipodi:type="spiral" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.59350967px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#002b11;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="708.21277"
+           y="203.07036"
+           id="text3336-6-1-9-0"
+           sodipodi:linespacing="125%"
+           transform="scale(0.86036433,1.1622983)"><tspan
+             sodipodi:role="line"
+             id="tspan3338-2-3-0-4"
+             x="708.21277"
+             y="203.07036"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.77702522px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle">Case-Reset</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62399006px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dee3db;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="652.04486"
+           y="-288.56689"
+           id="text3336-6-2-7-9-8"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.58481556,0.63104481,-0.85250199,0.79004917,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3338-2-8-7-9-4"
+             x="652.04486"
+             y="-288.56689"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.773386px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle;fill:#dee3db">Case-Reset</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62399006px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bec8b7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-126.69291"
+           y="524.25385"
+           id="text3336-6-2-9-2-4-8"
+           sodipodi:linespacing="125%"
+           transform="matrix(-0.40266794,0.76031923,1.0271436,0.54397915,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3338-2-8-6-6-5-1"
+             x="-126.69291"
+             y="524.25385"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.773386px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle;fill:#bec8b7">Case-Reset</tspan></text>
+      </g>
+      <text
+         transform="scale(-0.98285527,-1.0174438)"
+         y="-196.63527"
+         x="993.8916"
+         sodipodi:linespacing="133%"
+         id="text3586-1"
+         style="font-style:normal;font-weight:normal;font-size:8.03418732px;line-height:133.00000429%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.03418732px;line-height:134.00000334%;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L';text-align:center;text-anchor:middle;fill:#ffffff"
+   id="tspan3588-9">/ResetCase/</tspan></text>
+      <text
+         transform="translate(266.27293,-3.7605487)"
+         sodipodi:linespacing="125%"
+         id="text4769-5"
+         style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"
+         x="1304.5188"
+         y="-83.872917"><textPath
+           id="textPath4775-3"
+           startOffset="50%"
+           xlink:href="#path4773-5"><tspan
+   id="tspan4771-8"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#ffffff;">https://github.com/ResetCase/</tspan></textPath></text>
+    </g>
+    <g
+       transform="translate(-73.112118,-330.41222)"
+       id="g4815-0">
+      <g
+         transform="matrix(1.2815534,0,0,1.2815534,-1758.0235,-117.15525)"
+         id="g3573-3-3">
+        <circle
+           style="fill:#217821"
+           id="path3340-0-4-7-3"
+           cx="610.63721"
+           cy="202.82391"
+           r="52.022858" />
+        <g
+           id="g3416-7-5-9-6"
+           transform="translate(63.756446,-333.40427)">
+          <ellipse
+             ry="42.585262"
+             rx="42.931484"
+             cy="536.64795"
+             cx="546.26636"
+             id="path3342-5-0-2-8-1"
+             style="fill:#ffff00" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3378-3-1-0-6-8"
+             d="m 506.31346,560.86366 c 0,-0.17784 7.48921,-13.39306 16.64269,-29.36716 10.36402,-18.08667 16.77132,-28.84135 16.98366,-28.50718 0.78018,1.22777 0.20572,2.94935 -2.45482,7.35677 -2.55965,4.24029 -16.16699,30.22537 -16.16699,30.87307 0,0.15136 2.04704,2.31528 4.54898,4.8087 l 4.54899,4.53351 10.92019,0.47355 c 6.00611,0.26046 11.04202,0.35175 11.19091,0.20286 0.14889,-0.14889 -2.33257,-11.83348 -5.51434,-25.96575 -3.18179,-14.13228 -5.74683,-25.72551 -5.7001,-25.76274 0.15847,-0.12627 49.77987,47.14392 49.63789,47.2859 -0.0776,0.0776 -18.60651,3.2361 -41.17544,7.01899 -22.56893,3.78289 -41.58054,6.98932 -42.24802,7.1254 -0.66747,0.13608 -1.2136,0.10192 -1.2136,-0.0759 z"
+             style="fill:#ff2a2a" />
+          <path
+             transform="matrix(0.43083122,0.02460482,0.02460482,-0.43083122,539.3163,700.62479)"
+             d="m -27.274118,377.58029 c -0.506475,1.41813 -2.161486,0.0169 -2.357023,-0.84179 -0.529894,-2.32711 2.006842,-3.94317 4.04061,-3.87225 3.637934,0.12685 5.838931,3.88854 5.387481,7.23942 -0.662522,4.91756 -5.789518,7.7736 -10.438243,6.90271 -6.196019,-1.16076 -9.723805,-7.69652 -8.417939,-13.63706 1.643299,-7.47556 9.606198,-11.68183 16.835876,-9.93316 8.756108,2.11787 13.6443646,11.51733 11.448396,20.03469 -2.587872,10.0374 -13.429387,15.6097 -23.233508,12.96362 -11.319246,-3.055 -17.576927,-15.34204 -14.478854,-26.43232 3.520226,-12.60149 17.255121,-19.54546 29.63114,-15.99408 13.8840233,3.98411 21.5149544,19.16851 17.509313,32.82995 -4.4470213,15.16679 -21.082147,23.48517 -36.028774,19.02454"
+             sodipodi:t0="0"
+             sodipodi:argument="-16.935736"
+             sodipodi:radius="30.033995"
+             sodipodi:revolution="3"
+             sodipodi:expansion="1"
+             sodipodi:cy="377.58029"
+             sodipodi:cx="-27.274118"
+             id="path3344-3-7-5-0-2-7-7"
+             style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             sodipodi:type="spiral" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.59350967px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#002b11;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="708.21277"
+           y="203.07036"
+           id="text3336-6-1-9-0-0"
+           sodipodi:linespacing="125%"
+           transform="scale(0.86036433,1.1622983)"><tspan
+             sodipodi:role="line"
+             id="tspan3338-2-3-0-4-5"
+             x="708.21277"
+             y="203.07036"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.77702522px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle">Case-Reset</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62399006px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dee3db;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="652.04486"
+           y="-288.56689"
+           id="text3336-6-2-7-9-8-1"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.58481556,0.63104481,-0.85250199,0.79004917,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3338-2-8-7-9-4-1"
+             x="652.04486"
+             y="-288.56689"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.773386px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle;fill:#dee3db">Case-Reset</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.62399006px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bec8b7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-126.69291"
+           y="524.25385"
+           id="text3336-6-2-9-2-4-8-0"
+           sodipodi:linespacing="125%"
+           transform="matrix(-0.40266794,0.76031923,1.0271436,0.54397915,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3338-2-8-6-6-5-1-3"
+             x="-126.69291"
+             y="524.25385"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.773386px;font-family:'Bitstream Vera Serif';-inkscape-font-specification:'Bitstream Vera Serif Bold';text-align:center;text-anchor:middle;fill:#bec8b7">Case-Reset</tspan></text>
+      </g>
+      <text
+         transform="scale(-0.98285527,-1.0174438)"
+         y="-196.63527"
+         x="993.8916"
+         sodipodi:linespacing="133%"
+         id="text3586-1-0"
+         style="font-style:normal;font-weight:normal;font-size:8.03418732px;line-height:133.00000429%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.03418732px;line-height:134.00000334%;font-family:'Nimbus Mono L';-inkscape-font-specification:'Nimbus Mono L';text-align:center;text-anchor:middle;fill:#ffffff"
+           id="tspan3588-9-0">/ResetCase/</tspan></text>
+      <text
+         transform="translate(266.27293,-3.7605487)"
+         sodipodi:linespacing="125%"
+         id="text4769-5-4"
+         style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         x="1304.5188"
+         y="-83.872917"><textPath
+           id="textPath4775-3-5"
+           startOffset="50%"
+           xlink:href="#path4773-5-6"><tspan
+   id="tspan4771-8-4"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold';text-align:center;text-anchor:middle;fill:#ffffff">https://github.com/ResetCase/</tspan></textPath></text>
+    </g>
+  </g>
+</svg>
